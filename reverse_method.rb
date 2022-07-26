@@ -1,0 +1,1 @@
+puts "Do Ngoc Thuy Quynh".reverse
