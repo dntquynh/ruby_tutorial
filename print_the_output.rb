@@ -1,0 +1,5 @@
+first_name = "Quynh"
+last_name = "Do"
+city = "Sydney"
+state = "NSW"
+puts "Your name is #{first_name} #{last_name}. You are from #{city}, #{state}"
